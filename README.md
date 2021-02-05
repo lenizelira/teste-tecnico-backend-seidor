@@ -54,6 +54,5 @@ Arquitetura MVC
 
 
 
-![GitHub Logo](https://cdn.cultofmac.com/wp-content/uploads/2016/10/CoM-The-Ultimate-Front-End-Development-Bundle-780x390.jpg)
 
-![Representação visual/diagrama](https://github.com/lenizelira/teste-tecnico-backend-seidor/blob/main/img/diagrama-teste.png)
+![Representação visual/diagrama](https://github.com/lenizelira/teste-tecnico-backend-seidor/blob/main/img/diagrama-projeto-teste.jpg)
