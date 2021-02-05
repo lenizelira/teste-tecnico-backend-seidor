@@ -11,7 +11,9 @@ $ git clone <https://github.com/lenizelira/teste-tecnico-backend-seidor.git>
 $ cd teste-tecnico-backend-seidor
 
 #### Instale as dependências/Install the dependencies
-$ npm install$ npm instal mongoose
+$ npm install
+
+$ npm instal mongoose
 
 #### Execute o servidor/Run the server
 $ npm start
@@ -50,6 +52,6 @@ Arquitetura MVC
             |__     index.js
 ```
 
-![Representação visual/diagrama](C:\Users\Leni\Desktop\seidor\img)
 
-[Representação visual/diagrama](diagrama-projeto-teste.png)
+
+![Representação visual/diagrama](https://github.com/lenizelira/teste-tecnico-backend-seidor/blob/main/img/diagrama-teste.png)
